@@ -6,4 +6,5 @@ Algoritmo sin_titulo
 			Escribir i,"x",j,"=",i*j
 		FinPara
 	FinPara
+	// ejercicio 
 FinAlgoritmo
